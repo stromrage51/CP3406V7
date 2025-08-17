@@ -1,0 +1,10 @@
+#Six Thinking Hats 
+
+| Type of Hat | Focus | Ideas |
+|-------------|-------|-------|
+| **White Hat** | Focus on data, facts, and objectives. | • The app works offline unlike most existing apps.<br>• Can sync across multiple devices.<br>• Target audience is travellers, campers, and people in remote areas or with poor internet connection basically all of Australia.<br>• Uses online database for cloud storage and device for all storage. |
+| **Red Hat** | Emotion, gut feelings, reactions. | • Lots of anger towards existing recipes apps as they require a constant internet connection.<br>• There is a sense of satisfaction in solving a problem that I have been having for a long time. |
+| **Black Hat** | Risks, potential problems. | • Would need constant testing to ensure both offline and online features work to prevent loss of data.<br>• Need to make sure app is not confusing online database with offline database.<br>• Database will become bigger than intended as more recipes are uploaded.<br>• Search engine could become much slower as more recipes are uploaded. |
+| **Green Hat** | Creativity, focus on new ideas and alternative approaches. | • Include a timer to keep check of recipe time.<br>• Have an export feature to save recipe in a different format. |
+| **Yellow Hat** | Benefits, positives, advantages, and potential value. | • It can work anywhere thanks to its offline database.<br>• User can sync with it on any device thanks to online database.<br>• Its simple design can be used by anyone as it is designed to be as simple as possible.<br>• It encourages people to cook more instead of buying premade food. |
+| **Blue Hat** | Control, managing the process and deciding the next step. | • Update the UI first to get an idea on what to work on.<br>• Create multiple backups to prevent loss of data.<br>• Work on user auth after UI.<br>• Work on settings for all pages then online database.<br>• Create a second app for offline database.<br>• Work on connecting online and offline features to prevent crashes. |
