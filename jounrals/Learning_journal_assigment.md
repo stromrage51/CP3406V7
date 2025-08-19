@@ -1,6 +1,6 @@
-#Learning Journal 
+# Learning Journal 
 
-##Description: What happened during the project? 
+## Description: What happened during the project? 
 This project focused on developing a recipe app with both offline and online features, replacing an outdated UI with improved functionality. I began by merging my paper prototype and previous UI, iterating designs before creating the initial XML files. Drawing inspiration from existing apps, I added favourites and navigation elements for easier feature integration.
 
 I prioritized connecting all pages and implemented user authentication, including custom loading, sign-in, and sign-up screens. The settings page initially faced issues with changes not applying globally, but I resolved this by researching broader application methods.
@@ -13,5 +13,5 @@ Once both databases were functional, I merged them, using ‘ConnectivityManager
 Near the deadline, offline uploads malfunctioned, and online reconnections failed, but these were resolved under time constraints, leading me to drop unfinished features such as the checkbox and online favourites. Progress was slow due to external commitments, but despite setbacks, I successfully integrated offline and online databases.
 
 
-##Problems: What were the problems?
+## Problems: What were the problems?
 
