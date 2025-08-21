@@ -33,5 +33,15 @@ For changing the colour of the background:
 For Process bar:
     https://www.youtube.com/watch?v=SaTx-gLLxWQ
 
+For offline database room: 
+    https://www.youtube.com/watch?v=bOd3wO0uFr8
 
+For idea to how to connect two databases: 
+    https://www.youtube.com/watch?v=UNR1aphXtjI
+
+For online and offline difference:
+    https://www.youtube.com/watch?v=TzV0oCRDNfM  
+
+
+# Evaluation 
 
