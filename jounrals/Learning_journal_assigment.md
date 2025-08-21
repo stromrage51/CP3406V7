@@ -14,4 +14,24 @@ Near the deadline, offline uploads malfunctioned, and online reconnections faile
 
 
 ## Problems: What were the problems?
+Several challenges arose in the absence of the assignment, which can be classified into two main categories: code-related issues and time management difficulties.
+
+Among the code-related problems, the primary issue was that the 'favourite' RecyclerView functioned offline but failed to operate online due to Firebase restrictions. Additionally, offline mode encountered failures near completion because of complications with uploads and placeholders. A problem that spanned both coding and time constraints involved the camera feature, which repeatedly crashed when accessed, and I was unable to resolve the issue within the available timeframe. Another significant coding obstacle was database migration; although I believed I understood the concept, my lack of practical knowledge hindered successful implementation.
+Regarding time-related issues, a considerable amount of time was devoted to developing the favourite system, as it was a core feature for the application. The root cause of certain problems was not identified until much later, resulting in inefficient use of time and delays in implementing solutions. Unfortunately, I was also unable to develop the checkbox system, despite its importance, due to the extensive errors that required resolution. The greatest challenge, however, was managing my schedule—balancing two jobs, one of which demanded up to 12 hours per shift, left me with very limited time to dedicate to the app. As a result, I often felt frustrated about not being able to make the desired progress.
+
+
+# Videos I used:
+Idea for online part of recipe app:
+    https://www.youtube.com/watch?v=4xBT7gESjEU 
+
+For auto sizing the text: 
+    https://www.youtube.com/watch?v=9LTFmn_4Okk 
+
+For changing the colour of the background: 
+    https://www.youtube.com/watch?v=DpyJZ-f6xVg 
+
+For Process bar:
+    https://www.youtube.com/watch?v=SaTx-gLLxWQ
+
+
 
